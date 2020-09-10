@@ -9,7 +9,7 @@ import android.os.Handler;
 import android.view.WindowManager;
 
 public class Splash_Screen extends AppCompatActivity {
-    private final int duracion_splash = 2000;
+    private final int duracion_splash = 2000;  // Variable del tiempo que dura el Splash en milisegundos
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
